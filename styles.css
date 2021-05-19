@@ -1,0 +1,46 @@
+body {
+    font-size: 12px;
+}
+
+/*.flex {
+    display: flex;
+}
+*/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 95vw;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    padding: 10px 15px;
+}
+
+a:link {
+    color: black;
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+button {
+    background-color: #3e7cf0;
+    color: white;
+    border-radius: 5px;
+    padding-top: 8px;
+    padding-right: 30px;
+    padding-bottom: 8px;
+    padding-left: 30px;
+}
